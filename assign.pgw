@@ -1,0 +1,11 @@
+[Application]
+WindowPlacement=0 1 -32000 -32000 -1 -1 104 104 1256 697
+[Editor1]
+FileName=.\mylexer.l
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -1 -1 78 78 1054 403
+WindowOrder1=1
+Position001=0 144
+Cursor001=25 159 25 159
+SyntaxColouring=1
+TargetSyntaxColouring=3
